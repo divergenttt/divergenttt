@@ -1,4 +1,4 @@
-## # Hi 👋, I'm divergenttt
+## # Hi 👋, I'm Divergent 
 
 ### Builder at the intersection of privacy, Web3, and AI monetization
 
@@ -51,19 +51,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divergenttt&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divergenttt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divergenttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divergenttt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divergenttt&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=divergenttt&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect
 
-[![Telegram]
-[![Twitter]
-[![GitHub]
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dragunovski)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/op_divergent)
 
